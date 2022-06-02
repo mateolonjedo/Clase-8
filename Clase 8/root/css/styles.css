@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    margin: 0;
+}
+
+.textoHome{
+    font-family: "Arial";
+    font-size: 40px;
+}
+
+.logopagina{
+    Width:100px;
+    Height: 146.37px;
+}
+
+h1, h2 {
+    background-color: #C4C4C4;
+    color: #062b1e;
+}
+
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer {
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bold;
+    color: #FFF;
+    padding: 7px;
+}
+
+html body{
+    font-family: 'Arial';
+    font-style: normal;
+    margin:0;
+    padding: 0;
+}
+
+section{
+    background-color: rgb(173, 245, 198);
+}
